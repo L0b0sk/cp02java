@@ -33,7 +33,7 @@ O projeto também implementa recursos avançados como criptografia AES-256,
 persistência em arquivo local e integração com API externa de cotações.
 
 
-2. FUNCIONALIDADES
+*2. FUNCIONALIDADES
 ======================================
 
 O sistema contempla as seguintes funcionalidades:
@@ -75,7 +75,7 @@ O sistema contempla as seguintes funcionalidades:
         * Efeito de digitação animado
 
 
-3. TECNOLOGIAS UTILIZADAS
+*3. TECNOLOGIAS UTILIZADAS
 ======================================
 
 A seguir estão listadas as principais tecnologias empregadas no desenvolvimento:
@@ -111,7 +111,7 @@ A seguir estão listadas as principais tecnologias empregadas no desenvolvimento
         * Persistência de usuários em arquivo
 
 
-4. ESTRUTURA DO PROJETO
+*4. ESTRUTURA DO PROJETO
 ======================================
 
 A organização dos arquivos do projeto segue a seguinte estrutura:
@@ -163,7 +163,7 @@ Estrutura interna do código:
         * Gerenciamento de dados do sistema
 
 
-5. GUIA DE USO
+*5. GUIA DE USO
 ======================================
 
 5.1. PRÉ-REQUISITOS
@@ -213,7 +213,7 @@ Estrutura interna do código:
    +-------------------------------------------------------------------+
 
 
-6. REGRAS DE NEGÓCIO
+*6. REGRAS DE NEGÓCIO
 ======================================
 
 6.1. CONTA CORRENTE
@@ -260,7 +260,7 @@ Estrutura interna do código:
    - ARS
 
 
-7. RECURSOS DE SEGURANÇA
+*7. RECURSOS DE SEGURANÇA
 ======================================
 
 O sistema implementa múltiplas camadas de segurança:
@@ -282,7 +282,7 @@ O sistema implementa múltiplas camadas de segurança:
         * Dados armazenados no arquivo usuarios.dat
 
 
-8. CARACTERÍSTICAS TÉCNICAS
+*8. CARACTERÍSTICAS TÉCNICAS
 ======================================
 
 8.1. ARQUITETURA EM CAMADAS
@@ -342,7 +342,7 @@ O sistema implementa múltiplas camadas de segurança:
    - Comunicação HTTP com API pública
 
 
-CRÉDITOS
+*CRÉDITOS
 ======================================
 
    - Desenvolvimento Principal: Bruno Lobosque
