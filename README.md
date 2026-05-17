@@ -14,7 +14,7 @@ SISTEMA FIAP ATM - AUTOMAÇÃO BANCÁRIA
 9. CONTRIBUIÇÃO
 
 
-1. DESCRIÇÃO DO PROJETO
+*1. DESCRIÇÃO DO PROJETO*
 ======================================
 
 O FIAP ATM é um simulador de terminal bancário desenvolvido em Java puro, 
