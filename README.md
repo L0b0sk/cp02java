@@ -13,9 +13,9 @@ SISTEMA FIAP ATM - AUTOMAÇÃO BANCÁRIA
 8. CARACTERÍSTICAS TÉCNICAS
 9. CONTRIBUIÇÃO
 
-================================================================================
+======================================
 1. DESCRIÇÃO DO PROJETO
-================================================================================
+======================================
 
 O FIAP ATM é um simulador de terminal bancário desenvolvido em Java puro, 
 sem utilização de frameworks externos. O projeto aplica conceitos de 
@@ -32,9 +32,9 @@ do código e facilidade de manutenção.
 O projeto também implementa recursos avançados como criptografia AES-256, 
 persistência em arquivo local e integração com API externa de cotações.
 
-================================================================================
+======================================
 2. FUNCIONALIDADES
-================================================================================
+======================================
 
 O sistema contempla as seguintes funcionalidades:
 
@@ -74,9 +74,9 @@ O sistema contempla as seguintes funcionalidades:
         * Logo em ASCII art
         * Efeito de digitação animado
 
-================================================================================
+======================================
 3. TECNOLOGIAS UTILIZADAS
-================================================================================
+======================================
 
 A seguir estão listadas as principais tecnologias empregadas no desenvolvimento:
 
@@ -110,9 +110,9 @@ A seguir estão listadas as principais tecnologias empregadas no desenvolvimento
    - Java.io
         * Persistência de usuários em arquivo
 
-================================================================================
+======================================
 4. ESTRUTURA DO PROJETO
-================================================================================
+======================================
 
 A organização dos arquivos do projeto segue a seguinte estrutura:
 
@@ -162,9 +162,9 @@ Estrutura interna do código:
         * Integração com API externa
         * Gerenciamento de dados do sistema
 
-================================================================================
+======================================
 5. GUIA DE USO
-================================================================================
+======================================
 
 5.1. PRÉ-REQUISITOS
 
@@ -212,9 +212,9 @@ Estrutura interna do código:
    | [5] ENCERRAR SESSÃO                                               |
    +-------------------------------------------------------------------+
 
-================================================================================
+======================================
 6. REGRAS DE NEGÓCIO
-================================================================================
+======================================
 
 6.1. CONTA CORRENTE
 
@@ -259,9 +259,9 @@ Estrutura interna do código:
    - EUR
    - ARS
 
-================================================================================
+======================================
 7. RECURSOS DE SEGURANÇA
-================================================================================
+======================================
 
 O sistema implementa múltiplas camadas de segurança:
 
@@ -281,9 +281,9 @@ O sistema implementa múltiplas camadas de segurança:
    - Persistência Segura
         * Dados armazenados no arquivo usuarios.dat
 
-================================================================================
+======================================
 8. CARACTERÍSTICAS TÉCNICAS
-================================================================================
+======================================
 
 8.1. ARQUITETURA EM CAMADAS
 
@@ -341,14 +341,14 @@ O sistema implementa múltiplas camadas de segurança:
    - Atualização de moedas em tempo real
    - Comunicação HTTP com API pública
 
-================================================================================
+======================================
 CRÉDITOS
-================================================================================
+======================================
 
    - Desenvolvimento Principal: Bruno Lobosque
      Projeto acadêmico voltado para Programação Orientada a Objetos,
      arquitetura em camadas, segurança de dados e integração com APIs
 
-================================================================================
+======================================
 DOCUMENTAÇÃO GERADA EM: 16/05/2026
-================================================================================
+======================================
