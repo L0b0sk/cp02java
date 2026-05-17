@@ -160,12 +160,9 @@ A organização dos arquivos do projeto segue a seguinte estrutura:
    │
    
    └── infrastructure/
-   
-       ├── ContaRepository.java
-       
-       ├── UsuarioRepository.java
-       
-       └── CambioService.java
+         ├── ContaRepository.java
+         ├── UsuarioRepository.java
+         └── CambioService.java
       
 
 Estrutura interna do código:
