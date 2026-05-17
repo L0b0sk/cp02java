@@ -13,7 +13,7 @@ SISTEMA FIAP ATM - AUTOMAÇÃO BANCÁRIA
 8. CARACTERÍSTICAS TÉCNICAS
 9. CONTRIBUIÇÃO
 
-======================================
+
 1. DESCRIÇÃO DO PROJETO
 ======================================
 
@@ -32,7 +32,7 @@ do código e facilidade de manutenção.
 O projeto também implementa recursos avançados como criptografia AES-256, 
 persistência em arquivo local e integração com API externa de cotações.
 
-======================================
+
 2. FUNCIONALIDADES
 ======================================
 
@@ -74,7 +74,7 @@ O sistema contempla as seguintes funcionalidades:
         * Logo em ASCII art
         * Efeito de digitação animado
 
-======================================
+
 3. TECNOLOGIAS UTILIZADAS
 ======================================
 
@@ -110,7 +110,7 @@ A seguir estão listadas as principais tecnologias empregadas no desenvolvimento
    - Java.io
         * Persistência de usuários em arquivo
 
-======================================
+
 4. ESTRUTURA DO PROJETO
 ======================================
 
@@ -162,7 +162,7 @@ Estrutura interna do código:
         * Integração com API externa
         * Gerenciamento de dados do sistema
 
-======================================
+
 5. GUIA DE USO
 ======================================
 
@@ -212,7 +212,7 @@ Estrutura interna do código:
    | [5] ENCERRAR SESSÃO                                               |
    +-------------------------------------------------------------------+
 
-======================================
+
 6. REGRAS DE NEGÓCIO
 ======================================
 
@@ -259,7 +259,7 @@ Estrutura interna do código:
    - EUR
    - ARS
 
-======================================
+
 7. RECURSOS DE SEGURANÇA
 ======================================
 
@@ -281,7 +281,7 @@ O sistema implementa múltiplas camadas de segurança:
    - Persistência Segura
         * Dados armazenados no arquivo usuarios.dat
 
-======================================
+
 8. CARACTERÍSTICAS TÉCNICAS
 ======================================
 
@@ -341,7 +341,7 @@ O sistema implementa múltiplas camadas de segurança:
    - Atualização de moedas em tempo real
    - Comunicação HTTP com API pública
 
-======================================
+
 CRÉDITOS
 ======================================
 
@@ -349,6 +349,6 @@ CRÉDITOS
      Projeto acadêmico voltado para Programação Orientada a Objetos,
      arquitetura em camadas, segurança de dados e integração com APIs
 
-======================================
+
 DOCUMENTAÇÃO GERADA EM: 16/05/2026
 ======================================
