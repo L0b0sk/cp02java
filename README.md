@@ -117,31 +117,56 @@ A seguir estão listadas as principais tecnologias empregadas no desenvolvimento
 A organização dos arquivos do projeto segue a seguinte estrutura:
 
    src/br/com/fiapbank/
+   
    │
    ├── presentation/
+   
    │   └── TerminalBancarioController.java
+   
    │
+   
    ├── application/
+   
    │   ├── Main.java
+   
    │   ├── ContaService.java
+   
    │   ├── AutorizacaoService.java
+   
    │   └── ContaFactory.java
+   
    │
+   
    ├── model/
+   
    │   ├── Conta.java
+   
    │   ├── ContaCorrente.java
+   
    │   ├── ContaPoupanca.java
+   
    │   ├── Cliente.java
+   
    │   ├── ContaAcesso.java
+   
    │   ├── Dinheiro.java
+   
    │   ├── Movimentacao.java
+   
    │   ├── StatusConta.java
+   
    │   └── TipoMovimentacao.java
+   
    │
+   
    └── infrastructure/
+   
        ├── ContaRepository.java
+       
        ├── UsuarioRepository.java
+       
        └── CambioService.java
+      
 
 Estrutura interna do código:
 
